@@ -9,3 +9,7 @@ web whiteboard.com
 
 Hashing using bcryptjs // Stoeres hasehd passwords
 
+jsonwebtoken
+
+The developer will pass the accesstoken in middleware to routes and allows them to check whether the user is authenticated or not.
+How we can use multiple handlers, how we can protect routes, use middelwares, create tokens, hash passwords, role based authentications.
