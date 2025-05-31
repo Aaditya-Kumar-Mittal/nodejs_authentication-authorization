@@ -176,7 +176,3 @@ npm run dev
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-Let me know if you’d like a `README.md` file generated or hosted images for screenshots!
