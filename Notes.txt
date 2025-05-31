@@ -1,0 +1,11 @@
+Register username email password confirm login role user/admin
+Difference in Authorization and Authentication
+Once registered login, login and password
+Create cookie to hold Authentication information
+If authenticated then go to home page
+Only admin can access the special page
+
+web whiteboard.com
+
+Hashing using bcryptjs // Stoeres hasehd passwords
+
